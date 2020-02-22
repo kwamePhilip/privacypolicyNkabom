@@ -1,4 +1,6 @@
 PRIVACY POLICY FOR NKABOM APP
+
+
 This privacy policy governs your use of the software application Nkabom App (“Application”) for mobile devices that was created by Bizzi Apps LLC. The Application is used to bring users mostly from Ghana with similar interest together to chat as a group. This is achieved by creating chatgroups where users can come and chat about varius topics of interest. This Application collects your geolocation and display it for other users to see. The Application also sends email verification to users during registration to verify that users are the actual owners of the email address being used.
 
 What information does the Application obtain and how is it used?
