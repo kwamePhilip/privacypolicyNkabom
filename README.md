@@ -1,7 +1,7 @@
-PRIVACY POLICY FOR NKABOM APP
+PRIVACY POLICY FOR AfroCliques APP
 
 
-This privacy policy governs your use of the software application Nkabom App (“Application”) for mobile devices that was created by Bizzi Apps LLC. The Application is used to bring users mostly from Ghana with similar interest together to chat as a group. This is achieved by creating chatgroups where users can come and chat about varius topics of interest. This Application collects your geolocation and display it for other users to see. The Application also sends email verification to users during registration to verify that users are the actual owners of the email address being used.
+This privacy policy governs your use of the software application AfroCliques App (“Application”) for mobile devices that was created by Bizzi Apps LLC. The Application is used to bring users mostly from Ghana with similar interest together to chat as a group. This is achieved by creating chatgroups where users can come and chat about varius topics of interest. This Application collects your geolocation and display it for other users to see. The Application also sends email verification to users during registration to verify that users are the actual owners of the email address being used.
 
 What information does the Application obtain and how is it used?
 This Application obtains users geolocation, messages, email addresses and passwords used to register. The geolocation and email address information are displayed on the Application for all other users on the Application to see. The email addresses of users displayed on the Application for all other users to see allows other users to have the right to email you personally once they see your email address on our Application. Users stored passwords are just stored to be used solely for passwords recovery incase a user forgets his or her password.
